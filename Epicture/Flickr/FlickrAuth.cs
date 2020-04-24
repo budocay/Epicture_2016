@@ -34,8 +34,8 @@ namespace Epicture
 
         public FlickrAuth()
         {
-            Secret = "7b50037a5958fff3";
-            ConsumerKey = "a715ad0fa59f73296c3b3b14e581bfc2";
+            Secret = "";
+            ConsumerKey = "";
             oauth_result_token_pub = string.Empty;
             oauth_result_token_priv = string.Empty;
             OAuthAccessToken = string.Empty;
